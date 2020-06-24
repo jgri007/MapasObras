@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Style id="EstiloAleatorio">
+			<IconStyle>
+				<colorMode>random</colorMode>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>0</name>
+			<description>- Fecha Actualización Datos: 25/05/2020 9:08:53</description>
+				<Point><coordinates>-10.000000,41.000000</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C047-973</name>
+			<description>Residencial en calle Galos de Aguadulce  /  ( Aguadulce (Roquetas de Mar) )</description>
+				<Point><coordinates>-2.583723,36.799519</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C047-1048</name>
+			<description>Residencial Altamares  /  ( Aguadulce (Roquetas de Mar) )</description>
+				<Point><coordinates>-2.588070,36.804288</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C047-1043</name>
+			<description>Edificio en Calle Felipe el Hermoso  /  ( Aguadulce (Roquetas de Mar) )</description>
+				<Point><coordinates>-2.592610,36.810674</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C047-1093</name>
+			<description>Edificio Magnolia  /  ( Aguadulce (Roquetas de Mar) )</description>
+				<Point><coordinates>-2.581685,36.804019</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>236938</name>
+			<description>98 Viviendas    / ( Almeria )</description>
+				<Point><coordinates>-2.456706,36.841449</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>236933</name>
+			<description>78 Viviendas    / ( Almeria )</description>
+				<Point><coordinates>-2.442624,36.822108</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>168346</name>
+			<description>76 Viviendas. Fase 1 "Villa Pepita" (Actualizamos Presupuesto y Superficies9    / ( Almeria )</description>
+				<Point><coordinates>-2.452928,36.828080</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>239945</name>
+			<description>67 Viviendas. Residencial Vega  Parque     / ( Almeria )</description>
+				<Point><coordinates>-2.440915,36.832068</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>250105</name>
+			<description>43 Viviendas    / ( Almeria )</description>
+				<Point><coordinates>-2.428861,36.885932</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>40801304</name>
+			<description>38 Viviendas (Fase 1)    / ( Almeria )</description>
+				<Point><coordinates>-2.428061,36.886732</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>341013</name>
+			<description>32 Viviendas. Residencial Aqua    / ( Almeria )</description>
+				<Point><coordinates>-2.768025,37.168665</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>271650</name>
+			<description>29 Viviendas    / ( Almeria )</description>
+				<Point><coordinates>-2.437889,36.828689</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>318091</name>
+			<description>29 Viviendas Protegidas    / ( Almeria )</description>
+				<Point><coordinates>-2.461168,36.845462</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>270488</name>
+			<description>22 Viviendas    / ( Almeria )</description>
+				<Point><coordinates>-2.428561,36.886232</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>312946</name>
+			<description>22 Viviendas. Residencial Montserrat Junior    / ( Almeria )</description>
+				<Point><coordinates>-2.449907,36.837370</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>318087</name>
+			<description>21 Viviendas de Protección Oficial Garajes y Trasteros    / ( Almeria )</description>
+				<Point><coordinates>-2.464642,36.838022</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>2014721524</name>
+			<description>13 Viviendas P.O.    / ( Almeria )</description>
+				<Point><coordinates>-2.428361,36.886432</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>361348</name>
+			<description>13 Viiviendas. Edificio Acuario    / ( Almeria )</description>
+				<Point><coordinates>-2.440049,36.854094</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>270584</name>
+			<description>10 Viviendas    / ( Almeria )</description>
+				<Point><coordinates>-2.428661,36.886132</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-703</name>
+			<description>Residencial Toblerone (Suncrest Residencial)  /  ( Almería )</description>
+				<Point><coordinates>-2.459075,36.833394</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-867</name>
+			<description>Noga Residencial  /  ( Almería )</description>
+				<Point><coordinates>-2.434479,36.829151</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-826</name>
+			<description>Residencial Trivium  /  ( Almería )</description>
+				<Point><coordinates>-2.441562,36.842568</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-874</name>
+			<description>Residencial Altum Almería  /  ( Almería )</description>
+				<Point><coordinates>-2.455621,36.827935</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-813</name>
+			<description>Residencial Altum Almería  /  ( Almería )</description>
+				<Point><coordinates>-2.453921,36.837035</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-814</name>
+			<description>Edificio S en la Zona de la Vega de Acá  /  ( Almería )</description>
+				<Point><coordinates>-2.428289,36.832589</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-880</name>
+			<description>Edificio en calle Árbol del Paraíso (Alema Almería)  /  ( Almería )</description>
+				<Point><coordinates>-2.432110,36.837410</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-902</name>
+			<description>Edificio Residencial Marina IV  /  ( Almería )</description>
+				<Point><coordinates>-2.443114,36.827234</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-887</name>
+			<description>Residencial Alaia  /  ( Almería )</description>
+				<Point><coordinates>-2.442085,36.829930</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-839</name>
+			<description>Unifamiliares La Pipa  /  ( Almería )</description>
+				<Point><coordinates>-2.434115,36.851506</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-861</name>
+			<description>Residencial Hera  /  ( Almería )</description>
+				<Point><coordinates>-2.459514,36.840347</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-329</name>
+			<description>Edificio Dimensur Mediterráneo  /  ( Almería )</description>
+				<Point><coordinates>-2.439919,36.832380</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-855</name>
+			<description>Edificio Acacia  /  ( Almería )</description>
+				<Point><coordinates>-2.450710,36.852895</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-823</name>
+			<description>Residencial Vegamar Arena  /  ( Almería )</description>
+				<Point><coordinates>-2.443065,36.826304</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-806</name>
+			<description>Citerea Residencial  /  ( Almería )</description>
+				<Point><coordinates>-2.439949,36.854194</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C041-363</name>
+			<description>One55+  /  ( Almería )</description>
+				<Point><coordinates>-2.323831,36.838455</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-753</name>
+			<description>Residencial Aqua: Fase I y II  /  ( Almería )</description>
+				<Point><coordinates>-2.442122,36.827454</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-734</name>
+			<description>Edificio en Calle Sumeria de Vega de Acá  /  ( Almería )</description>
+				<Point><coordinates>-2.437789,36.828789</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-697</name>
+			<description>29 viviendas de VPO y locales comerciales en Avenida de Vilches  /  ( Almería )</description>
+				<Point><coordinates>-2.460707,36.844642</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-690</name>
+			<description>Edificio en Camino de la Goleta  /  ( Almería )</description>
+				<Point><coordinates>-2.435151,36.835908</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-859</name>
+			<description>Edificio VPO en Casas de los Maestros  /  ( Almería )</description>
+				<Point><coordinates>-2.461512,36.845036</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-891</name>
+			<description>Edificio en Calle Granada 153  /  ( Almería )</description>
+				<Point><coordinates>-2.458439,36.846868</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-840</name>
+			<description>Edificio La Pipa en Carretera Alhadra  /  ( Almería )</description>
+				<Point><coordinates>-2.435593,36.853596</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-860</name>
+			<description>Residencial Nabú  /  ( Almería )</description>
+				<Point><coordinates>-2.463514,36.834247</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-898</name>
+			<description>Residencial Noga: Fase II  /  ( Almería )</description>
+				<Point><coordinates>-2.439979,36.833151</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-741</name>
+			<description>Edificio Rambla 100  /  ( Almería )</description>
+				<Point><coordinates>-2.457864,36.841209</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-745</name>
+			<description>Edificio Montserrat Junior  /  ( Almería )</description>
+				<Point><coordinates>-2.454335,36.837147</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-751</name>
+			<description>Edificio Granada Rambla  /  ( Almería )</description>
+				<Point><coordinates>-2.458508,36.846812</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-871</name>
+			<description>Edificio Cartagena en el Paseo Marítimo de Almería  /  ( Almería )</description>
+				<Point><coordinates>-2.465414,36.824947</coordinates></Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>EstiloAleatorio</styleUrl>
+			<name>C040-843</name>
+			<description>Residencial Miracabo  /  ( Almería )</description>
+				<Point><coordinates>-2.445112,36.853973</coordinates></Point>
+		</Placemark>
+	</Document>
+</kml>
